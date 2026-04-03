@@ -2,6 +2,8 @@
 # BypassMidd
 
 **Universal Link Bypass Service**
+[![BypassMidd Logo](https://api-bypassers.onrender.com/logo.jpg)
+
 [Website](https://api-bypassers.onrender.com) |
 
 [Status](https://api-bypassers.onrender.com/status) |
